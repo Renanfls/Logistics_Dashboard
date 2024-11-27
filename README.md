@@ -11,8 +11,8 @@ O **Logistics Dashboard** é uma solução completa para análise e tratamento d
 * **Formatação de Valores Monetários** : Ajusta valores faturados para o formato brasileiro com vírgulas e arredonda para 2 casas decimais.
 * **Separação de Dados** : Divide a coluna "Cliente - Motorista" em duas colunas distintas: **Cliente** e  **Motorista** .
 * **Cálculo de Métricas** :
-* **Atraso (dias)** : Diferença entre a data de entrega prevista e a data de entrega real.
-* **Entrega no Prazo** : Identifica se a entrega foi feita dentro do prazo ou não.
+   * **Atraso (dias)** : Diferença entre a data de entrega prevista e a data de entrega real.
+   * **Entrega no Prazo** : Identifica se a entrega foi feita dentro do prazo ou não.
 * **Dashboard Interativo** : Dashboard em Power BI para visualização e análise de dados processados.
 
 ## 📂 Estrutura do Projeto
